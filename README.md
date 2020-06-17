@@ -1,4 +1,4 @@
-# Symfony 5 avec Docker
+# Symfony 5 with Docker
 Run environment :
 - cd docker
 - docker-compose up
